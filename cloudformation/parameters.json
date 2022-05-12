@@ -1,0 +1,12 @@
+[
+  {
+    "ParameterKey": "SNSTopicName",
+    "ParameterValue": "Izaan-Prod-GeneralAlarmNotificationSnsTopic",
+    "UsePreviousValue": false
+  },
+  {
+    "ParameterKey": "SNSTopicSubscriberEndpoint",
+    "ParameterValue": "testdata.islam@gmail.com",
+    "UsePreviousValue": false
+  }
+]
