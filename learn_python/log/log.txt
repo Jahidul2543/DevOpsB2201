@@ -1,0 +1,11 @@
+INFO:root:Student List: ['John', 'Jack', 'Kack', 'Mac', 234]
+18:12:49,306 root INFO Student List: ['John', 'Jack', 'Kack', 'Mac', 234]
+18:20:44,620 root INFO Student List: ['John', 'Jack', 'Kack', 'Mac', 234]
+18:21:11,800 root INFO Student List: ['John', 'Jack', 'Kack', 'Mac', 234]
+18:21:11,800 root INFO 48
+18:23:32,651 root INFO Student List: ['John', 'Jack', 'Kack', 'Mac', 234]
+18:23:32,651 root INFO List Length 5
+18:29:57,477 root INFO Student List: ['John', 'Jack', 'Kack', 'Mac', 234]
+18:29:57,477 root INFO List Length 5
+18:32:28,348 root INFO Student List: ['John', 'Jack', 'Kack', 'Mac', 234]
+18:32:28,348 root INFO List Length 5
