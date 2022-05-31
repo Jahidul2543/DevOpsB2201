@@ -12,6 +12,9 @@ How to get a value from a list?
 """
 
 
+#  Function which works as an entry point is called handler function
+#  Event Driven Service - Explain
+
 def add(event, context):
     print('Lambd Event {}:'.format(event))
     a = 2

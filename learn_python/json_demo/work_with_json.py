@@ -16,11 +16,14 @@ null	        None
 
 """
 
+
 def read_data():
-    with open("json_demo/data/data.json", "r") as read_file:
+    with open("data/data.json", "r") as read_file:
         file_data = json.load(read_file)
         print(file_data)
         print(type(file_data))
+        print(file_data["president"]["hobby"][0])
+
 
 if __name__ == "__main__":
     read_data()
