@@ -1,0 +1,15 @@
+Body:
+    {
+      "EmployerName" : "Google",
+      "CourseName" : "DevOps",
+      "GraduationDate" : "August",
+      "StudentsNumber" : 10
+    }
+Header
+Content-Type : application/json
+Type of call: POST
+Body Validation: No
+Resource: /get-student-info
+Protocol: HTTPS
+
+1. Get Student information based on the condition provided by client

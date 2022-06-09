@@ -57,7 +57,6 @@ curl --location --request POST 'https://5x9m5ed0tj.execute-api.us-east-1.amazona
 
 """
 
-
 def find_who_you_are():
     # Please use above info to make a post call by your own
     print("Make a post call, get to know if you are an Adult!!!")
